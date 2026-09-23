@@ -96,8 +96,7 @@ I'm currently looking to:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/renato-rodriguez-b48167220/)
 
 ---
 
