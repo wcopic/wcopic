@@ -58,6 +58,15 @@ Python-based credential auditing system that detects compromised passwords and b
 
 [View Repository →](https://github.com/wcopic/credential-breach-detector.git)
 
+
+### 🛡️ Endpoint Forensics (WIP)
+
+Local Windows endpoint investigation tool that captures process activity, executable metadata, PE information, digital signatures, certificates, and loaded modules through a FastAPI web interface.
+
+**Topics:** Python · FastAPI · Windows Internals · Digital Forensics · Process Analysis · PE Analysis · Cybersecurity
+
+[View Repository →](https://github.com/wcopic/endpoint-forensics.git)
+
 ---
 
 ## 📚 Currently Learning
